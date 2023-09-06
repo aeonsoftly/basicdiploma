@@ -26,14 +26,14 @@
         2. All images are single-pixel wide but form an even better image when taken together, and this is what you're checking for.
         3. Keeping all images side by side is not the only way they'll fit and so different axes are important to work towards also.
         4. The monitoring of the image is by keeping all images from deviating from a historical standard-- which eliminates any fanciful, moderated-generation of image-- AI resonance, especially!
-        5.
+        5. Building a parallel axes' consistency algorithm is how to pinpoint which pixel is not from a similar source as others, and will be developed in this curriculum.
 
     f. All images must not be checked for consistency or there won't be any at all, so finding which to check is important.
-        1.
-        2.
-        3.
-        4.
-        5.
+        1. When an image is made it could be real or imaginary, but only if there is no other data-set to compare it to.
+        2. When checking if an image is imaginary it will fit into a collection of other imaginary images-- this is the AI resonance set we're looking to destroy!
+        3. Using an image as a factual basis is incorrect since it could be fed in improperly.
+        4. When describing an image to the machine it could be fed in any format so this is also not a proper way to understand source context, and therefore content generation strategy.
+        5. The image data itself is used to pinpoint the exact place the image will attach to other images and this is what will be used.
 
     g. Using all parts of an image will become important or the image isn't real, and how to tell and what to do if not.
         1.
