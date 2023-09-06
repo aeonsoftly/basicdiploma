@@ -14,11 +14,11 @@
         5. When a subject is too complicated to describe with only a single image then multiple is a great option.
 
     c. Building a software to generate new images and why this is useful to do.
-        1. 
-        2.
-        3.
-        4.
-        5.
+        1. All software is a series of instructions, no more.
+        2. Creating software is about having the instructions, but sometimes also wording them how a machine will interpret correctly!
+        3. To build an image you'll start with a starting image for AI resonance, then cause it to appear in small patches on the output display; called a "canvas".
+        4. Using no part of the original image you'll start to shuffle the pixels in a different direction for each type of effect-- discussed when this curriculum is created in more detail at some later time, if decided for.
+        5. When the image is content-generated complete, you'll need to store it for future reuse, since no part of it is likely to continue naturally.
 
 2. Using only historical information will oppose, and then terminate all AI images.
     e. When an image is present it must be checked for accuracy.
@@ -36,8 +36,9 @@
         5. The image data itself is used to pinpoint the exact place the image will attach to other images and this is what will be used.
 
     g. Using all parts of an image will become important or the image isn't real, and how to tell and what to do if not.
-        1.
-        2.
-        3.
-        4.
-        5.
+        1. To predict where an image will go you must decide an important particle-effect of "excitation" for it.
+        2. No excitation will occur if the image is static so the particles are placed into an entropy-medium-- like a "sauce" that will cause them to likely jump to a different location by strategy.
+        3. All particles of a similar variety will likely move towards the same excited-state but those without a particular variety of intramedium will jump in a different direction.
+        4. Keeping the particles of a particular variety will always descend towards madness unless the particular pixels display a variety of images which is the final step.
+        5. Measuring the differences in entropic-state is useless for "variety" since they are all similar so this step requires redisplaying the images to form a new one-- the historical point-of-view, which will be tested against the original image for accuracy.
+        6. Keeping an image that is only accurate is important to only display non-nuanced or "regenerated-redisplayed" images, and so you'll burn the wrong type-- which is to simply destroy it, however the system is made.
