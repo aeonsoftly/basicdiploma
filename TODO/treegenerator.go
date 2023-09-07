@@ -84,7 +84,10 @@ func makeNewSubtree(name string) error {
 
 	// make the directory for this entry
 	err := CopyDir("../TEMPLATE", "../"+name)
-	if err != nil {
+    
+    // if the folder already exists then this subject is a duplicate so fail silently, without resaving to try again.
+    //  DEBUG: I'm not sure if this is the correct way to test for this error, but the error code should be correct.
+	if err != nil && err.Error() != "EEXIST" {
 		return fmt.Errorf("Unable to create folder: %s %s\n", name, err)
 	}
 
