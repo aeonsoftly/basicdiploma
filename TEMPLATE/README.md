@@ -1,3 +1,5 @@
+See Lesson.txt for the up-to-date information.
+
 # A New Subject
 
 This subject was created using the following logic:
