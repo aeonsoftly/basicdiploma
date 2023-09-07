@@ -11,15 +11,16 @@
         3. All of life can be drawn in this way if any image of a living thing is drawn at all-- which has happened!
             a. For purpose of keeping life going then the image world is a great place to exist!
             b. All images can be of any thing in any direction and no one should believe that all images are already generated.
-            c.
+            c. When a life-drawing is completed it should be shown to the life that inspired it, to be reasonable-- and tarnished if not effective in resemblement.
         4. To draw an image using a previous one simply copy single parts of the image to the new one but draw in an effect that isn't already present too.
-            a.
-            b.
-            c.
+            a. All images that keep a visible similarity to others are called "mappings" of each other.
+            b. When drawing a map you'll keep all parts in similar arrangement but perhaps with finer or more useful detail in some way.
+            c. How an image is drawn is not your worry at this point but how to modify an existing image to resemble where room for more of some detail is available.
+            d. All parts of the image are simply scaled is one way but the usefulness of the technique is to create a master-copy where only the useful parts are stored for new use.
         5. No part of the image should be a direct copy to make a "master" image, which is a photo-resembling one.
-            a.
-            b.
-            c.
+            a. Where an image is placed to resemble a new one is called the "retort-position" of the image, and is difficult to imagine!
+            b. All parts of the image will be scaled by an unknown factor 'k' to resemble a different image, but this can only happen in a dimension not characteristic to the image.
+            c. Producing an image using a "master"-scale is called "unknowing" the image and can be described using a formula: 1/k = n*formula(1), which will be described further on in this curriculum.
 
     b. Creating a new image from nothing is possible but isn't what this course is for, except here.
         1. All images must be appealing even if they are of a nasty subject.
@@ -82,9 +83,9 @@
         4. The monitoring of the image is by keeping all images from deviating from a historical standard-- which eliminates any fanciful, moderated-generation of image-- AI resonance, especially!
             a. The lines of the image are compared side-by-side for deviation from a norm-- which is a standard that is not generated in the image itself, but from some other source.
             b. The norm is not usual in this case but a mathematical algorithm for determining "sidedness" to a reasonable triangle, which is a ratio of two equal parts to a single line covering the same distance in a higher dimension.
-            c. 
+            c. When images are composed of the same consistency they will resemble "white noise" which is targeted demeanor without meaning, and this is crucial for detecting a study of the image!
         5. Building a parallel axes' consistency algorithm is how to pinpoint which pixel is not from a similar source as others, and will be developed in this curriculum.
-            a.
+            a. All noises are parallel, and this is how to detect when an image has "noise" from different directions!
             b.
             c.
 
